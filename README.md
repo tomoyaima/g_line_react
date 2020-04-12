@@ -1,3 +1,10 @@
+完成サイト
+https://geek-line.firebaseapp.com/
+
+
+
+
+
 # ページの説明
 
 ladingPage.js = 一番最初のランディングページのコンポーネント  
